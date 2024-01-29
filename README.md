@@ -1,4 +1,4 @@
-# This is a sample jobs test BNI, How i Create a Sample Mobile Test Auomate using java Programming Language
+# This is a sample jobs test BNI, How i Create a Sample Mobile Test Automate using java Programming Language
 **Using Tools :**
  - Java Programming Language
  - Java Maven Framework

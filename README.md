@@ -1,11 +1,14 @@
 # This is a sample test, How i Create a Sample Mobile Test Automate using java Programming Language
 **Using Tools :**
- - Java Programming Language
- - Java Maven Framework
- - Appium Mobile Automation Test Library
- - BDD Cucumber Library
+ - Java Maven
+ - Appium
+ - BDD Cucumber
+ - Selenium
+ - Junit
  - Log4J2
  - TestNG
+Etc.
+
 
 ------------------------------------------------------------
 **Example Generite HTML Reports**
